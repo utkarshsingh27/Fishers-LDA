@@ -1,6 +1,6 @@
-#Fisher's Linear Discriminant Projects – Synthetic & Iris Dataset
+## Fisher's Linear Discriminant Projects – Synthetic & Iris Dataset
 
-Overview
+# Overview
 This repository contains two projects demonstrating the application of Fisher’s Linear Discriminant Analysis (LDA) for binary classification using both a synthetic 2D dataset and a real-world Iris dataset.
 The aim is to explore class separability by projecting high-dimensional data onto a one-dimensional space using the optimal direction (v) found via LDA, and evaluating performance using custom classification criteria.
 
